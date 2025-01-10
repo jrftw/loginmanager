@@ -1,18 +1,66 @@
 [
-    "ariannadeangelis2002@yahoo.com",
-    "sassyscreations1@gmail.com",
-    "drippydash71@gmail.com",
-    "christineinfinitumcnm@gmail.com",
-    "erica.infinitum@gmail.com",
-    "coyclayton@gmail.com",
-    "kevinddoyle6@gmail.com",
-    "kdoyle@infinitumimagery.com",
-    "kelvinrodeo670@gmail.com",
-    "matthewkeeney7@gmail.com",
-    "moschlem4@gmail.com",
-    "rehbeexii@gmail.com",
-    "zer0mavricktv@gmail.com",
-    "serenity99_00@hotmail.com",
-    "Missladii.cd@gmail.com",
-    "thelindsaylyons@gmail.com"
+    {
+        "email": "ariannadeangelis2002@yahoo.com",
+        "password": "3X5p7A1Z"
+    },
+    {
+        "email": "sassyscreations1@gmail.com",
+        "password": "Y7aC9nF0"
+    },
+    {
+        "email": "drippydash71@gmail.com",
+        "password": "b6T3sQvP"
+    },
+    {
+        "email": "christineinfinitumcnm@gmail.com",
+        "password": "Z1xD9fB2"
+    },
+    {
+        "email": "erica.infinitum@gmail.com",
+        "password": "m7P4zA0G"
+    },
+    {
+        "email": "coyclayton@gmail.com",
+        "password": "F6zP1rVn"
+    },
+    {
+        "email": "kevinddoyle6@gmail.com",
+        "password": "A2qS5yD9"
+    },
+    {
+        "email": "kdoyle@infinitumimagery.com",
+        "password": "U9eT3cP1"
+    },
+    {
+        "email": "kelvinrodeo670@gmail.com",
+        "password": "r4F8pM7b"
+    },
+    {
+        "email": "matthewkeeney7@gmail.com",
+        "password": "Q7h5R2Nc"
+    },
+    {
+        "email": "moschlem4@gmail.com",
+        "password": "s7Z5fX2d"
+    },
+    {
+        "email": "rehbeexii@gmail.com",
+        "password": "t9C1kB6Q"
+    },
+    {
+        "email": "zer0mavricktv@gmail.com",
+        "password": "V3g7P0sX"
+    },
+    {
+        "email": "serenity99_00@hotmail.com",
+        "password": "z2G6m4QH"
+    },
+    {
+        "email": "Missladii.cd@gmail.com",
+        "password": "N8r1C6yA"
+    },
+    {
+        "email": "thelindsaylyons@gmail.com",
+        "password": "p5T1W3gZ"
+    }
 ]
